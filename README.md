@@ -1,5 +1,7 @@
 # TritonHacks2022 Project - Fish Simulation
 
+## Won 3rd Place at UCSD Hackathon 
+
 ## Description
 We coded a fish simulation where there are three types of fish: Goldfish, Tropical Fish, and Sharks. The simulation initally starts with 20 goldfish, 5 tropical fish, and 1 shark. As long as there are two fish of the same type, new fish are born. When the tropical fish collides with a goldfish, the tropical fish "eats" the goldfish and the goldfish dissapears. When the shark collides with a tropical fish, the shark will eat that fish. The background of the simulation is a coral reef. 
 
